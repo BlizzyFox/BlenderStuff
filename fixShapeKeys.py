@@ -6,7 +6,6 @@
 # Run script. 
 
 import bpy
-import mathutils
 
 obj = bpy.context.active_object
 

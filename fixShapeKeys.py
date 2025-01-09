@@ -2,7 +2,11 @@
 #
 # By BlizzyFox
 # 
-# Select starting shape key and select problem vertices in Edit mode.
+# INSTRUCTIONS:
+# IF YOU IGNORE THIS IT WONT WORK AND I'M NOT RESPONSIBLE IF YOU DAMAGE YOUR BLEND FILE.
+# 1. In edit mode select the verticies you need corrected. 
+# 2. Click Scripting at the top, new in Text editor and paste this script in 
+# 3. while still in edit mode run this script
 # Run script. 
 
 import bpy
